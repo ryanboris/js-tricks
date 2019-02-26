@@ -1,0 +1,12 @@
+{
+  "env": {
+    "node": true,
+    "browser": true,
+    "es6": true,
+    "commonjs": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 9,
+    "sourceType": "module"
+  }
+}
